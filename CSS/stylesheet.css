@@ -1,0 +1,343 @@
+.container{
+    width: 1080px; 
+    margin:0 auto; 
+}
+.intro{
+    
+}
+.greenbox {
+    background-color: darkolivegreen;
+    
+
+}
+
+h1, h2, h3 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family:'Work Sans', sans-serif;
+    font-size: 75px;
+    padding-top: 30px;
+}
+
+h2{
+    color: black;
+    font-family:'Work Sans', sans-serif;
+    font-size: 30px;
+    padding-top: 16px;
+}
+h3{
+    color: black;
+    font-family:'Work Sans', sans-serif;
+    font-size: 20px;
+    padding-top: 16px;
+}
+
+
+p {
+    color: black;
+    font-family:'Work Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.captions{
+    font-size: 10px;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+    
+}
+.body_txt {
+    width:450px;
+    text-align:left;
+    padding-left: 120px;
+}
+
+.navbar{
+    width: 1080px;
+    background-color: darkolivegreen;
+    position: fixed;
+    top:0;
+}
+.navbar ul {
+    text-align: center;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    padding: 30px; 
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px; 
+    text-align: center;
+}
+.navbar ul li a{
+    display: inline; 
+    color: white;
+    text-decoration: none;
+}
+
+.intro_img {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.greenline{
+    background-color: darkolivegreen;
+    width: 1080px;
+    height; 5px;
+}
+.clear {
+    clear: both;
+}
+h2{
+    font-size: 75px; 
+    color: darkolivegreen;
+    margin-left: 130px;
+    
+}
+.description_ul {
+    margin-top: 10px;
+    font-size: 24px; 
+    font-family: 'Work Sans', sans-serif; 
+    padding-left: 138px;
+}
+
+.Families_of_Folivora_ul {
+    font-family: ;
+    font-size: 24px;
+    color:black;
+    
+}
+
+
+.col_two{
+    width: 520px; 
+    padding: 10px;
+    float: left; 
+    
+}
+span{
+    font-weight: bold;
+}
+
+.second_image {
+    margin-left; 200px;
+    width: 500px;
+    padding-left: 153px;
+}
+    
+ .taxonomy{
+     margin-left: 225px; 
+     width: 300px; 
+     font-size: 75px; 
+     font-family: 'work sans', sans-serif; 
+     
+     }  
+    
+    .taxonomy_img{
+        width: 375px; 
+        height: 275px;
+        margin-left: 117px;
+    }
+.taxonomy_chart{
+    width: 490px;
+    height: 375px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+        
+.Fun_Fact{
+        font-size: 40px; 
+        color: white;
+        font-family: 'work sans', sans-serif;
+        text-align: center;
+    
+}
+.Fun_Fact_body_txt{
+    width:450px;
+    text-align:left;
+    padding-left: 120px;
+    
+}
+
+.Mating_img{
+    width: 570px;
+    height: 300px;
+    margin-left: 120px;
+}
+
+
+
+
+h3 {
+    font-family: 'work sans', sans-serif; 
+    font-size: 40px;
+    text-align: center;
+    color: white; 
+    margin-left: 125px;
+    margin-right: 400px;
+    height: 50px;
+    width:500px;
+    padding right: 200px;
+    background-color: darkolivegreen;
+    
+    
+}
+
+.Families_of_Folivora_ul li{
+    font-family: 'work sans', sans-serif; 
+   margin-left: 190px;
+}
+
+h4{
+    font-family: 'work sans',sans-serif;
+    font-size: 160px; 
+    color: darkolivegreen; 
+    margin-top: 0px;
+    margin-bottom: 0px; 
+    letter-spacing: 60px;
+    margin-left: 135px;
+    margin-right: 135px;
+}
+
+.Biology_img{
+    width: 675px; 
+    height: 650px;
+    margin-right: 800px; 
+    margin-left: 138px; 
+    
+ 
+}
+
+
+h6{
+    font-family: 'work sans', sans-serif; 
+    font-size: 75px; 
+    color: darkolivegreen; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    margin-left: 320px;
+    
+   
+}
+.Anatomy_body_txt{
+    width:450px;
+    text-align:right;
+    margin-left: 200px;
+    
+}
+.Ecology_body_txt{
+    width: 1000px;
+    margin-left: 140px;
+    margin-right: 20px;
+}
+.map_img{
+    
+    width: 980px;
+    height: 900px;
+    display: block;
+    margin-right: auto; 
+    margin-left: auto;
+}
+
+.behavior_sloth_img{
+    width: 350px; 
+    margin-left: 160px;
+    
+}
+
+.second_behavior_img{
+    width: 400px;
+    height: 320px;
+    float: right; 
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.Behavior_body_txt{
+    width:450px;
+    text-align:left;
+    margin-left: 200px;
+    text-align: left;
+    
+}
+
+.human_relations_txt{
+    width:450px;
+    text-align:left;
+    margin-left: 135px;
+}
+
+.vid{
+   padding-left: 125px;
+}
+
+h7{
+    font-family: 'work sans', sans-serif;
+    font-size: 35px;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+
+
+h8{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: 'work sans', sans-serif;
+    font-size: 40px;
+    color: white; 
+    
+    
+    
+}
+
+.sloth_vector_head_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 315px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+    
+}
+
+h9{
+    font-family: 'work sans', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-left: 815px;
+    margin-bottom: 20px;
+  
+}
+
+footer{
+    background-color: darkolivegreen;
+    color: white;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+
+
+
+
+    
+
+
